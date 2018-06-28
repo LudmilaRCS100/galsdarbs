@@ -1,5 +1,5 @@
 
-body {
+head {
     margin: 0;
     padding-top: 3rem;
     padding-bottom: 3rem;
@@ -11,7 +11,7 @@ body {
     font-family: 'Raleway', sans-serif;
 }
 
-*{
+div {
     margin: 0;
     padding:0;
 }
@@ -24,10 +24,7 @@ body {
     color: white;
     }
 
-        a {
-            color: white;
-        }
-
+       
         .header {
             height: 65px;
             margin-top: 25px;
@@ -35,27 +32,10 @@ body {
             font-size: 24px;
         }
 
-        .banner {
-            background: url(diamond.jpg);
-            background-size: cover;
-            width: auto;
-            height: 200px;
-            text-align: center;
-            font-size: 52px;
-            padding-top: 75px;
-            color: white;
-        }
+        
 
-        .content {
-            min-height: 500px;
-            padding-top: 50px;
-            padding-bottom: 50px;
-            font-size: 18px;
-            background-color: white;
-            color: black;
-        }
-
-        .footer {
+        
+            footer {
             height: 120px;
             padding: 50px;
             text-align: center;
@@ -64,5 +44,5 @@ body {
         }
         
 
-        }
+        
     
